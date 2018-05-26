@@ -46,7 +46,7 @@ namespace Projekt_KassaMarktProgramm
                     artikel = zeile;
                     break;
                 }
-                
+                //testcommit
 
             }
             dateiname.Close();
