@@ -24,7 +24,7 @@ namespace Projekt_KassaMarktProgramm
     {
         ObservableCollection<Kategorie> obs = new ObservableCollection<Kategorie>();
 
-        //probe
+        //probe 
 
         public void DateiLesen()
         {
